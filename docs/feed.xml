@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leading Quietly</title>
+    <link>https://bel9777.github.io/leading-quietly-podcast/</link>
+    <language>en-us</language>
+    <description>A daily two-host leadership coaching podcast for analytical, quiet, process-driven leaders: speaking early, running the room, leading specialists, holding your line calmly, and scaling beyond yourself.</description>
+    <itunes:author>Leading Quietly</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://bel9777.github.io/leading-quietly-podcast/cover.png"/>
+    <atom:link href="https://bel9777.github.io/leading-quietly-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Day 1: Prepared, Clear, and Steady: Leading Without Changing Who You Are</title>
+      <description>Quiet Is a Way to Lead — Prepared, Clear, and Steady: Leading Without Changing Who You Are. Today&#x27;s rep: Write your own one-line leadership statement and say it out loud twice before tomorrow&#x27;s first meeting.</description>
+      <guid isPermaLink="false">leading-quietly-day-001</guid>
+      <pubDate>Wed, 25 Nov 2026 11:45:00 +0000</pubDate>
+      <itunes:episode>1</itunes:episode>
+      <enclosure url="https://bel9777.github.io/leading-quietly-podcast/audio/day-001-prepared-clear-and-steady-leading-without-changing-who-you-a-5508621.mp3" length="5508621" type="audio/mpeg"/>
+      <itunes:duration>7:39</itunes:duration>
+    </item>
+  </channel>
+</rss>

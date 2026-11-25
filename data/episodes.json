@@ -1,0 +1,25 @@
+[
+ {
+  "day": 1,
+  "week": 1,
+  "track": "Quiet Is a Way to Lead",
+  "kind": "playbook",
+  "title": "Prepared, Clear, and Steady: Leading Without Changing Who You Are",
+  "homework": "Write your own one-line leadership statement and say it out loud twice before tomorrow's first meeting.",
+  "format": "two-host",
+  "guid": "leading-quietly-day-001",
+  "publishedAt": "2026-11-25T11:45:00",
+  "audioPath": "/audio/day-001-prepared-clear-and-steady-leading-without-changing-who-you-a-5508621.mp3",
+  "transcriptPath": "/transcripts/day-001-5508621.txt",
+  "audioBytes": 5508621,
+  "durationSeconds": 459,
+  "ttsModel": "gemini-3.8-flash-tts",
+  "metrics": {
+   "words": 1277,
+   "lra": 4.5,
+   "lufs": -16.7,
+   "dipSeconds": 0.0,
+   "silenceRatio": 0.0
+  }
+ }
+]

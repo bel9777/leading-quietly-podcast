@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.tmp.wav
+*.new.mp3
+task-*.xml
+publish_both_to_github.ps1
+data/emailed.json
+
+
+
