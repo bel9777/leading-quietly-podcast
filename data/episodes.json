@@ -1,5 +1,28 @@
 [
  {
+  "day": 2,
+  "week": 1,
+  "track": "Quiet Is a Way to Lead",
+  "kind": "research",
+  "title": "Being Chosen vs. Leading Well: What the Research Actually Shows",
+  "homework": "Before your next meeting, write one sentence at the top of your notes naming the single decision the group needs to reach.",
+  "format": "two-host",
+  "guid": "leading-quietly-day-002",
+  "publishedAt": "2026-11-26T11:45:00",
+  "audioPath": "/audio/day-002-being-chosen-vs-leading-well-what-the-research-actually-show-4697037.mp3",
+  "transcriptPath": "/transcripts/day-002-4697037.txt",
+  "audioBytes": 4697037,
+  "durationSeconds": 391,
+  "ttsModel": "gemini-3.8-flash-tts",
+  "metrics": {
+   "words": 1051,
+   "lra": 4.0,
+   "lufs": -16.6,
+   "dipSeconds": 0.0,
+   "silenceRatio": 0.0
+  }
+ },
+ {
   "day": 1,
   "week": 1,
   "track": "Quiet Is a Way to Lead",
