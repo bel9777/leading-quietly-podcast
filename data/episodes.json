@@ -1,5 +1,28 @@
 [
  {
+  "day": 3,
+  "week": 1,
+  "track": "Quiet Is a Way to Lead",
+  "kind": "script_lab",
+  "title": "Opening With the Decision You Need (Role-Play)",
+  "homework": "Write the exact opening sentence for your next meeting before you walk in and speak within the first five minutes.",
+  "format": "two-host",
+  "guid": "leading-quietly-day-003",
+  "publishedAt": "2026-11-27T11:45:00",
+  "audioPath": "/audio/day-003-opening-with-the-decision-you-need-role-play-4422573.mp3",
+  "transcriptPath": "/transcripts/day-003-4422573.txt",
+  "audioBytes": 4422573,
+  "durationSeconds": 368,
+  "ttsModel": "gemini-3.8-flash-tts",
+  "metrics": {
+   "words": 1091,
+   "lra": 4.0,
+   "lufs": -16.6,
+   "dipSeconds": 0.1,
+   "silenceRatio": 0.0
+  }
+ },
+ {
   "day": 2,
   "week": 1,
   "track": "Quiet Is a Way to Lead",
