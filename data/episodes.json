@@ -1,5 +1,28 @@
 [
  {
+  "day": 4,
+  "week": 1,
+  "track": "Quiet Is a Way to Lead",
+  "kind": "research",
+  "title": "Level 5 Leadership: Humble About Credit, Stubborn About Results",
+  "homework": "In your next status update to leadership, lead with what changed and credit one teammate by name for the part they drove.",
+  "format": "two-host",
+  "guid": "leading-quietly-day-004",
+  "publishedAt": "2026-11-28T11:45:00",
+  "audioPath": "/audio/day-004-level-5-leadership-humble-about-credit-stubborn-about-result-4666509.mp3",
+  "transcriptPath": "/transcripts/day-004-4666509.txt",
+  "audioBytes": 4666509,
+  "durationSeconds": 388,
+  "ttsModel": "gemini-3.8-flash-tts",
+  "metrics": {
+   "words": 1141,
+   "lra": 4.4,
+   "lufs": -16.5,
+   "dipSeconds": 0.0,
+   "silenceRatio": 0.0
+  }
+ },
+ {
   "day": 3,
   "week": 1,
   "track": "Quiet Is a Way to Lead",
